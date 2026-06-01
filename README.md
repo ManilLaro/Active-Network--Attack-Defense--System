@@ -2,12 +2,6 @@
 
 This repository contains the code and documentation for an active network security project focused on simulating local network attacks and deploying real-time mitigation strategies. The project demonstrates the mechanics of Address Resolution Protocol (ARP) spoofing, Man-in-the-Middle (MITM) TCP session hijacking, and automated defensive countermeasures.
 
-## 👥 Project Team (Group 1)
-* **Manil Laroussi** (U23104561)
-* **Ehab Mohammed** (U23102894)
-* **Ammar Adil** (U23100354)
-* **Bilal Nedal** (U23107110)
-
 ## 🎯 Project Overview
 This project is broken down into three primary components:
 1. **ARP Spoofing Attack:** A script that poisons the ARP cache of a target client and gateway, forcing traffic to route through the attacker's machine.
